@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Tammy</h1>
 <h3 align="center">I enjoy working with mobile and web technologies, accessibility, and contributing to open source</h3>
 
-- 🔭 I’m currently working on [Matplotlib](https://github.com/matplotlib)
+- 🔭 I’m currently working on [FreeCodeCamp](https://github.com/freeCodeCamp/Developer_Quiz_Site)
 
-- 👯 I’m looking to collaborate on [FreeCodeCamp](https://github.com/freeCodeCamp/Developer_Quiz_Site)
-
+- 👯 I’m looking to continue to collaborate on [LibreOffice](https://wiki.documentfoundation.org/Development/GetInvolved)
+ 
 - 📝 I regularly write articles on [https://developbit.com/](https://developbit.com/)
 
 - ⚡ Fun fact **I like to crochet**
