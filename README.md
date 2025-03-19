@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Tammy</h1>
-<h3 align="center">I enjoy working with mobile and web technologies, accessibility, and contributing to open source</h3>
+<h3 align="center">Hi there! I'm [Your Name], an accounting enthusiast about financial literacy, bookkeeping, and leveraging technology for smarter financial management.  </h3>
 
 - 🔭 I’m currently working on [FreeCodeCamp](https://github.com/freeCodeCamp/Developer_Quiz_Site)
 
-- 👯 I’m looking to continue to collaborate on [LibreOffice](https://wiki.documentfoundation.org/Development/GetInvolved)
+- 👯 I'm looking to collaborate on projects related to:  
+- Financial management tools (budget trackers, expense analyzers)  
+- Accounting automation (Python, Excel macros, Google Sheets scripting)  
+- Small business financial planning & bookkeeping solutions  
+- Financial literacy and educational resources 
  
-- 📝 I regularly write articles on [https://developbit.com/](https://developbit.com/)
 
 - ⚡ Fun fact **I like to crochet**
 
