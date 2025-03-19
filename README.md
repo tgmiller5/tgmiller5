@@ -5,8 +5,8 @@
 - Financial management tools (budget trackers, expense analyzers)  
 - Accounting automation (Python, Excel macros, Google Sheets scripting)  
 - Small business financial planning & bookkeeping solutions  
-- Financial literacy and educational resources 
- 
+- Financial literacy and educational resources
+- [Business Women Metaverse Party]([url](https://www.facebook.com/groups/594347693577302))
 
 - ⚡ Fun fact **I like to crochet**
 
