@@ -7,7 +7,7 @@
 - Small business financial planning & bookkeeping solutions  
 - Financial literacy and educational resources
 
-- Currently, I am collobarating with https://www.facebook.com/groups/594347693577302
+- Currently, I am collaborating with <a href="https://www.facebook.com/groups/594347693577302"> Business Women Metaverse Party </a>
 
 - ⚡ Fun fact **I like to crochet**
 
