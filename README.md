@@ -14,11 +14,11 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<p>## 📌 What You'll Find Here  
-📂 Open-source financial tools & templates  
-📊 Budgeting and expense tracking spreadsheets  
-📜 Accounting guides and best practices  
-💻 Python & Excel scripts for financial analysis  </p>
+<p>📌 What You'll Find Here</p>
+<ul><li>📂 Open-source financial tools & templates </li>
+<li>📊 Budgeting and expense tracking spreadsheets </li> 
+<li>📜 Accounting guides and best practices  </li>
+<li>💻 Python & Excel scripts for financial analysis</li>  </ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
