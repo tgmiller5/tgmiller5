@@ -6,7 +6,7 @@
 - Accounting automation (Python, Excel macros, Google Sheets scripting)  
 - Small business financial planning & bookkeeping solutions  
 - Financial literacy and educational resources
-- [Business Women Metaverse Party]([url](https://www.facebook.com/groups/594347693577302))
+- [Business Women Metaverse Party]([https://www.facebook.com/groups/594347693577302](https://www.facebook.com/groups/594347693577302))
 
 - ⚡ Fun fact **I like to crochet**
 
