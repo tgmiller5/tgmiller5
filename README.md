@@ -1,5 +1,5 @@
 
-<h3">Hi there! I'm Tammy, an accounting enthusiast about financial literacy, bookkeeping, and leveraging technology for smarter financial management.  </h3>
+<h3><strong>Hi there! I'm Tammy, an accounting enthusiast about financial literacy, bookkeeping, and leveraging technology for smarter financial management.  </h3></strong>
 
 - 👯 I'm looking to collaborate on projects related to:  
 - Financial management tools (budget trackers, expense analyzers)  
