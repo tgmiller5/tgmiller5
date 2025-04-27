@@ -7,7 +7,10 @@
 - Small business financial planning & bookkeeping solutions  
 - Financial literacy and educational resources
 
-- Currently, I am collaborating with <a href="https://www.facebook.com/groups/594347693577302"> Business Women Metaverse Party </a>
+  **Volunteer**
+
+- I am the host of <a href="https://www.facebook.com/groups/594347693577302"> Business Women Metaverse Party </a>
+- I am Volunteer Financial Coach at <a href="https://womensmoneymatters.org/"> Women's Money Matters</a>
 
 - ⚡ Fun fact **I like to crochet**
 
